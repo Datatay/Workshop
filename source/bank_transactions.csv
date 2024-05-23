@@ -1,0 +1,10 @@
+trans_id,account_number,transaction_type,operation,amount,datetime
+T00695561,100,Credit,Cash Withdrawal,1000,2023-01-01 10:33:00
+T00497211,100,Credit,Credit in Cash,1500,2023-01-02 08:21:00
+T00695247,200,Credit,Credit in Cash,3500,2023-01-02 16:19:00
+T00110785,100,Debit,Cash Withdrawal,1000,2023-01-03 09:12:00
+T01117247,200,Debit,Credit in Cash,2000,2023-01-03 13:06:00
+T01028004,200,Credit,Cash Withdrawal,3500,2023-01-04 10:54:00
+T01101121,300,Credit,Cash Withdrawal,4000,2023-01-13 18:03:00
+T00171812,300,Debit,Credit in Cash,4500,2023-01-14 21:11:00
+T00232960,300,Credit,Credit in Cash,1500,2023-01-15 07:14:00
